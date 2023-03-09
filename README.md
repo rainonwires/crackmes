@@ -1,7 +1,7 @@
 # crackmes
 Learning to Reverse Engineer via Crackmes
 
-P.S. Inspiration from this guy... https://github.com/gabimarti/crackmes-solutions (I like following an actual series of crackmes rather than random ones. Thanks dude for uploading the exes :>
+*P.S. Inspiration from this guy... https://github.com/gabimarti/crackmes-solutions (I like following an actual series of crackmes rather than random ones. Thanks dude for uploading the exes :>*
 
 As a newb when it comes to reverse engineering, I chose to take upon various crackmes in my quest to reverse engineer a game.
 
